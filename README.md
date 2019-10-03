@@ -12,3 +12,7 @@
 
 ## 更多 V2Ray 教程文章
 https://github.com/233boy/v2ray/wiki
+
+##
+記得安裝git
+debian或ubuntu：apt-get -y install git
