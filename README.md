@@ -18,7 +18,7 @@ https://github.com/233boy/v2ray/wiki
 debian或ubuntu：apt-get -y install git
 
 ##安裝
-git clone https://github.com/abc123/v2ray -b master
+git clone https://github.com/906836920/v2ray -b master
 
 cd v2ray
 
