@@ -19,6 +19,10 @@ debian或ubuntu：apt-get -y install git
 
 ##安裝
 git clone https://github.com/abc123/v2ray -b master
+
 cd v2ray
+
 chmod +x install.sh
+
 ./install.sh local
+
