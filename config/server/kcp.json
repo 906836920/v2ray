@@ -109,7 +109,7 @@
 	},
 	"transport": {
 		"kcpSettings": {
-            "uplinkCapacity": 100,
+            "uplinkCapacity": 5,
             "downlinkCapacity": 100,
             "congestion": true
         },
